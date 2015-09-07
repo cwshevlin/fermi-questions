@@ -1,0 +1,985 @@
+{
+  "question_bank": [
+  {
+    "q": "What is the number of board game dice it would take to fill a 24 inch beach ball?",
+    "a": "29 thousand",
+    "fermiA": "4",
+    "sources": [
+      "http://en.wikipedia.org/wiki/Spheroid",
+      "http://en.wikipedia.org/wiki/Circle",
+      "http://en.wikipedia.org/wiki/Circle_packing",
+      "http://en.wikipedia.org/wiki/Close-packing_of_spheres",
+      "http://www.dice.co.uk/outlines.htm"
+]
+  },
+  {
+  "q": "How many carbon atoms (as in diamond) would fit in a 24 inch beach ball?",
+  "a": "2.08 e 28",
+  "fermiA": "28",
+  "sources": [
+    "http://en.wikipedia.org/wiki/Spheroid",
+    "http://en.wikipedia.org/wiki/Circle",
+    "http://en.wikipedia.org/wiki/Circle_packing",
+    "http://en.wikipedia.org/wiki/Close-packing_of_spheres",
+    "http://www.wolframalpha.com/input/?i=carbon+atom"
+  ]
+},
+{
+  "q": "How many drops of water would fit in a 24 inch beach ball?",
+  "a": "119 thousand",
+  "fermiA": "5",
+  "sources": [
+    "http://en.wikipedia.org/wiki/Spheroid",
+    "http://en.wikipedia.org/wiki/Circle",
+    "http://en.wikipedia.org/wiki/Circle_packing",
+    "http://en.wikipedia.org/wiki/Close-packing_of_spheres",
+    "http://www.wolframalpha.com/input/?i=water",
+    "http://en.wikipedia.org/wiki/Drop_(unit)"
+]
+},
+{
+  "q": "How many grains of sand would fit in a 24 inch beach ball?",
+  "a": "1.42 billion",
+  "fermiA": "9",
+  "sources": [
+    "http://en.wikipedia.org/wiki/Spheroid",
+    "http://en.wikipedia.org/wiki/Circle",
+    "http://en.wikipedia.org/wiki/Circle_packing",
+    "http://en.wikipedia.org/wiki/Close-packing_of_spheres",
+    "http://en.wikipedia.org/wiki/Orders_of_magnitude_(volume)",
+    "http://en.wikipedia.org/wiki/Sphere_packing"
+]
+},
+{
+  "q": "How many M&Ms would fit in a 24 inch beach ball?",
+  "a": "143 thousand",
+  "fermiA": "5",
+  "sources": [
+    "http://en.wikipedia.org/wiki/Spheroid",
+    "http://en.wikipedia.org/wiki/Circle",
+    "http://en.wikipedia.org/wiki/Circle_packing",
+    "http://en.wikipedia.org/wiki/Close-packing_of_spheres",
+    "http://stat.pugetsound.edu/hoard/datasetDetails.aspx?id=1",
+    "Assume an M&M's smallest dimension is half its largest dimension.",
+    "Assume spheroids pack like spheres."
+]
+},
+{
+  "q": "What is the number of ping pong balls it would take to fill a 24 inch beach ball?",
+  "a": "2.62 thousand",
+  "fermiA": "3",
+  "sources": [
+    "http://en.wikipedia.org/wiki/Spheroid",
+    "http://en.wikipedia.org/wiki/Circle",
+    "http://en.wikipedia.org/wiki/Circle_packing",
+    "http://en.wikipedia.org/wiki/Close-packing_of_spheres",
+    "http://www.wolframalpha.com/input/?i=ping+pong+ball"
+]
+},
+{
+  "q": "What is the number of red blood cells it would take to fill a 24 inch beach ball?",
+  "a": "9.98 e 14",
+  "fermiA": "15",
+  "sources": [
+    "http://en.wikipedia.org/wiki/Spheroid",
+    "http://en.wikipedia.org/wiki/Circle",
+    "http://en.wikipedia.org/wiki/Circle_packing",
+    "http://en.wikipedia.org/wiki/Close-packing_of_spheres",
+    "http://en.wikipedia.org/wiki/Red_blood_cell#Human_erythrocytes",
+    "Assume a human red blood cell is roughly spheroid in shape.",
+    "Assume spheroids pack like spheres."
+]
+},
+{
+  "q": "How many standard 2x4 lego blocks would fit in a 24 inch beach ball?",
+  "a": "24.6 thousand",
+  "fermiA": "4",
+  "sources": [
+    "http://en.wikipedia.org/wiki/Spheroid",
+    "http://en.wikipedia.org/wiki/Circle",
+    "http://en.wikipedia.org/wiki/Circle_packing",
+    "http://en.wikipedia.org/wiki/Close-packing_of_spheres",
+    "http://www.robertcailliau.eu/Lego/Dimensions/zMeasurements-en.xhtml",
+    "Assume no space is lost when packing lego blocks into a container."
+]
+},
+{
+  "q": "What is the number of teaspoonfuls of air it would take to fill a 24 inch beach ball?",
+  "a": "24.1 thousand",
+  "fermiA": "4",
+  "sources": [
+    "http://en.wikipedia.org/wiki/Spheroid",
+    "http://en.wikipedia.org/wiki/Circle",
+    "http://en.wikipedia.org/wiki/Circle_packing",
+    "http://en.wikipedia.org/wiki/Close-packing_of_spheres",
+    "http://en.wikipedia.org/wiki/Teaspoon#Measure_of_volume"
+]
+},
+{
+  "q": "How many toothpicks would fit in a 24 inch beach ball?",
+  "a": "456 thousand",
+  "fermiA": "5",
+  "sources": [
+    "http://en.wikipedia.org/wiki/Spheroid",
+    "http://en.wikipedia.org/wiki/Circle",
+    "http://en.wikipedia.org/wiki/Circle_packing",
+    "http://en.wikipedia.org/wiki/Close-packing_of_spheres",
+    "http://naosite.lb.nagasaki-u.ac.jp/dspace/bitstream/10069/20149/1/otol132_4_669.pdf",
+    "Assume no space is lost when packing toothpicks into a container."
+]
+},
+{
+  "q": "How many US dimes would fit in a 24 inch beach ball?",
+  "a": "316 thousand",
+  "fermiA": "5",
+  "sources": [
+    "http://en.wikipedia.org/wiki/Spheroid",
+    "http://en.wikipedia.org/wiki/Circle",
+    "http://en.wikipedia.org/wiki/Circle_packing",
+    "http://en.wikipedia.org/wiki/Close-packing_of_spheres",
+    "http://www.usmint.gov/about_the_mint/?action=coin_specifications"
+]
+},
+{
+  "q": "What is the number of US dollar bills it would take to fill a 24 inch beach ball?",
+  "a": "105 thousand",
+  "fermiA": "5",
+  "sources": [
+    "http://en.wikipedia.org/wiki/Spheroid",
+    "http://en.wikipedia.org/wiki/Circle",
+    "http://en.wikipedia.org/wiki/Circle_packing",
+    "http://en.wikipedia.org/wiki/Close-packing_of_spheres",
+    "http://hypertextbook.com/facts/1999/DeneneWilliams.shtml",
+    "http://www.treasury.gov/press-center/press-releases/Pages/rr2748.aspx",
+    "Assume no space is lost when packing dollar bills into a container."
+]
+},
+{
+  "q": "What is the number of US dollar coins it would take to fill a 24 inch beach ball?",
+  "a": "97.8 thousand",
+  "fermiA": "5",
+  "sources": [
+    "http://en.wikipedia.org/wiki/Spheroid",
+    "http://en.wikipedia.org/wiki/Circle",
+    "http://en.wikipedia.org/wiki/Circle_packing",
+    "http://en.wikipedia.org/wiki/Close-packing_of_spheres",
+    "http://en.wikipedia.org/wiki/Dollar_coin_(United_States)",
+    "http://mathworld.wolfram.com/CirclePacking.html"
+]
+},
+{
+  "q": "What is the number of board game dice it would take to fill a basketball?",
+  "a": "1.73 thousand",
+  "fermiA": "3",
+  "sources": [
+    "http://www.wolframalpha.com/input/?i=basketball",
+    "http://en.wikipedia.org/wiki/Spheroid",
+    "http://en.wikipedia.org/wiki/Circle",
+    "http://en.wikipedia.org/wiki/Circle_packing",
+    "http://en.wikipedia.org/wiki/Close-packing_of_spheres",
+    "http://www.dice.co.uk/outlines.htm"
+]
+},
+{
+  "q": "How many carbon atoms (as in diamond) would fit in a basketball?",
+  "a": "1.24 e 27",
+  "fermiA": "27",
+  "sources": [
+    "http://www.wolframalpha.com/input/?i=basketball",
+    "http://en.wikipedia.org/wiki/Spheroid",
+    "http://en.wikipedia.org/wiki/Circle",
+    "http://en.wikipedia.org/wiki/Circle_packing",
+    "http://en.wikipedia.org/wiki/Close-packing_of_spheres",
+    "http://www.wolframalpha.com/input/?i=carbon+atom"
+  ]
+},
+{
+  "q": "How many drops of water would fit in a basketball?",
+  "a": "7.1 thousand",
+  "fermiA": "4",
+  "sources": [
+    "http://www.wolframalpha.com/input/?i=basketball",
+    "http://en.wikipedia.org/wiki/Spheroid",
+    "http://en.wikipedia.org/wiki/Circle",
+    "http://en.wikipedia.org/wiki/Circle_packing",
+    "http://en.wikipedia.org/wiki/Close-packing_of_spheres",
+    "http://www.wolframalpha.com/input/?i=water",
+    "http://en.wikipedia.org/wiki/Drop_(unit)"
+]
+},
+{
+  "q": "How many grains of sand would fit in a basketball?",
+  "a": "84.8 million",
+  "fermiA": "8",
+  "sources": [
+    "http://www.wolframalpha.com/input/?i=basketball",
+    "http://en.wikipedia.org/wiki/Spheroid",
+    "http://en.wikipedia.org/wiki/Circle",
+    "http://en.wikipedia.org/wiki/Circle_packing",
+    "http://en.wikipedia.org/wiki/Close-packing_of_spheres",
+    "http://en.wikipedia.org/wiki/Orders_of_magnitude_(volume)",
+    "http://en.wikipedia.org/wiki/Sphere_packing"
+]
+},
+{
+  "q": "How many M&Ms would fit in a basketball?",
+  "a": "8.58 thousand",
+  "fermiA": "4",
+  "sources": [
+    "http://www.wolframalpha.com/input/?i=basketball",
+    "http://en.wikipedia.org/wiki/Spheroid",
+    "http://en.wikipedia.org/wiki/Circle",
+    "http://en.wikipedia.org/wiki/Circle_packing",
+    "http://en.wikipedia.org/wiki/Close-packing_of_spheres",
+    "http://stat.pugetsound.edu/hoard/datasetDetails.aspx?id=1",
+    "Assume an M&M's smallest dimension is half its largest dimension.",
+    "Assume spheroids pack like spheres."
+]
+},
+{
+  "q": "What is the number of red blood cells it would take to fill a basketball?",
+  "a": "5.98 e 13",
+  "fermiA": "14",
+  "sources": [
+    "http://www.wolframalpha.com/input/?i=basketball",
+    "http://en.wikipedia.org/wiki/Spheroid",
+    "http://en.wikipedia.org/wiki/Circle",
+    "http://en.wikipedia.org/wiki/Circle_packing",
+    "http://en.wikipedia.org/wiki/Close-packing_of_spheres",
+    "http://en.wikipedia.org/wiki/Red_blood_cell#Human_erythrocytes",
+    "Assume a human red blood cell is roughly spheroid in shape.",
+    "Assume spheroids pack like spheres."
+]
+},
+{
+  "q": "How many standard 2x4 lego blocks would fit in a basketball?",
+  "a": "1.47 thousand",
+  "fermiA": "3",
+  "sources": [
+    "http://www.wolframalpha.com/input/?i=basketball",
+    "http://en.wikipedia.org/wiki/Spheroid",
+    "http://en.wikipedia.org/wiki/Circle",
+    "http://en.wikipedia.org/wiki/Circle_packing",
+    "http://en.wikipedia.org/wiki/Close-packing_of_spheres",
+    "http://www.robertcailliau.eu/Lego/Dimensions/zMeasurements-en.xhtml",
+    "Assume no space is lost when packing lego blocks into a container."
+]
+},
+{
+  "q": "What is the number of teaspoonfuls of air it would take to fill a basketball?",
+  "a": "1.44 thousand",
+  "fermiA": "3",
+  "sources": [
+    "http://www.wolframalpha.com/input/?i=basketball",
+    "http://en.wikipedia.org/wiki/Spheroid",
+    "http://en.wikipedia.org/wiki/Circle",
+    "http://en.wikipedia.org/wiki/Circle_packing",
+    "http://en.wikipedia.org/wiki/Close-packing_of_spheres",
+    "http://en.wikipedia.org/wiki/Teaspoon#Measure_of_volume"
+]
+},
+{
+  "q": "How many toothpicks would fit in a basketball?",
+  "a": "27.3 thousand",
+  "fermiA": "4",
+  "sources": [
+    "http://www.wolframalpha.com/input/?i=basketball",
+    "http://en.wikipedia.org/wiki/Spheroid",
+    "http://en.wikipedia.org/wiki/Circle",
+    "http://en.wikipedia.org/wiki/Circle_packing",
+    "http://en.wikipedia.org/wiki/Close-packing_of_spheres",
+    "http://naosite.lb.nagasaki-u.ac.jp/dspace/bitstream/10069/20149/1/otol132_4_669.pdf",
+    "Assume no space is lost when packing toothpicks into a container."
+]
+},
+{
+  "q": "How many US dimes would fit in a basketball?",
+  "a": "18.9 thousand",
+  "fermiA": "4",
+  "sources": [
+    "http://www.wolframalpha.com/input/?i=basketball",
+    "http://en.wikipedia.org/wiki/Spheroid",
+    "http://en.wikipedia.org/wiki/Circle",
+    "http://en.wikipedia.org/wiki/Circle_packing",
+    "http://en.wikipedia.org/wiki/Close-packing_of_spheres",
+    "http://www.usmint.gov/about_the_mint/?action=coin_specifications"
+]
+},
+{
+  "q": "What is the number of US dollar bills it would take to fill a basketball?",
+  "a": "6.29 thousand",
+  "fermiA": "4",
+  "sources": [
+    "http://www.wolframalpha.com/input/?i=basketball",
+    "http://en.wikipedia.org/wiki/Spheroid",
+    "http://en.wikipedia.org/wiki/Circle",
+    "http://en.wikipedia.org/wiki/Circle_packing",
+    "http://en.wikipedia.org/wiki/Close-packing_of_spheres",
+    "http://hypertextbook.com/facts/1999/DeneneWilliams.shtml",
+    "http://www.treasury.gov/press-center/press-releases/Pages/rr2748.aspx",
+    "Assume no space is lost when packing dollar bills into a container."
+]
+},
+{
+  "q": "What is the number of US dollar coins it would take to fill a basketball?",
+  "a": "5.86 thousand",
+  "fermiA": "4",
+  "sources": [
+    "http://www.wolframalpha.com/input/?i=basketball",
+    "http://en.wikipedia.org/wiki/Spheroid",
+    "http://en.wikipedia.org/wiki/Circle",
+    "http://en.wikipedia.org/wiki/Circle_packing",
+    "http://en.wikipedia.org/wiki/Close-packing_of_spheres",
+    "http://en.wikipedia.org/wiki/Dollar_coin_(United_States)",
+    "http://mathworld.wolfram.com/CirclePacking.html"
+]
+},
+{
+  "q": "How many board game dice would fit in a bathtub?",
+  "a": "30.5 thousand",
+  "fermiA": "4",
+  "sources": [
+    "http://pdf.lowes.com/dimensionsguides/040688102733_meas.pdf",
+    "http://www.dice.co.uk/outlines.htm"
+]
+},
+{
+  "q": "What is the number of carbon atoms (as in diamond) it would take to fill a bathtub?",
+  "a": "2.19 e 28",
+  "fermiA": "28",
+  "sources": [
+    "http://pdf.lowes.com/dimensionsguides/040688102733_meas.pdf",
+    "http://www.wolframalpha.com/input/?i=carbon+atom"
+  ]
+},
+{
+  "q": "What is the number of drops of water it would take to fill a bathtub?",
+  "a": "125 thousand",
+  "fermiA": "5",
+  "sources": [
+    "http://pdf.lowes.com/dimensionsguides/040688102733_meas.pdf",
+    "http://www.wolframalpha.com/input/?i=water",
+    "http://en.wikipedia.org/wiki/Drop_(unit)"
+]
+},
+{
+  "q": "What is the number of grains of sand it would take to fill a bathtub?",
+  "a": "1.49 billion",
+  "fermiA": "9",
+  "sources": [
+    "http://pdf.lowes.com/dimensionsguides/040688102733_meas.pdf",
+    "http://en.wikipedia.org/wiki/Orders_of_magnitude_(volume)",
+    "http://en.wikipedia.org/wiki/Sphere_packing"
+]
+},
+{
+  "q": "What is the number of M&Ms it would take to fill a bathtub?",
+  "a": "151 thousand",
+  "fermiA": "5",
+  "sources": [
+    "http://pdf.lowes.com/dimensionsguides/040688102733_meas.pdf",
+    "http://stat.pugetsound.edu/hoard/datasetDetails.aspx?id=1",
+    "Assume an M&M's smallest dimension is half its largest dimension.",
+    "http://en.wikipedia.org/wiki/Spheroid",
+    "http://en.wikipedia.org/wiki/Circle",
+    "http://en.wikipedia.org/wiki/Circle_packing",
+    "http://en.wikipedia.org/wiki/Close-packing_of_spheres",
+    "Assume spheroids pack like spheres."
+]
+},
+{
+  "q": "How many ping pong balls would fit in a bathtub?",
+  "a": "2.76 thousand",
+  "fermiA": "3",
+  "sources": [
+    "http://pdf.lowes.com/dimensionsguides/040688102733_meas.pdf",
+    "http://www.wolframalpha.com/input/?i=ping+pong+ball",
+    "http://en.wikipedia.org/wiki/Spheroid",
+    "http://en.wikipedia.org/wiki/Circle",
+    "http://en.wikipedia.org/wiki/Circle_packing",
+    "http://en.wikipedia.org/wiki/Close-packing_of_spheres"
+]
+},
+{
+  "q": "How many red blood cells would fit in a bathtub?",
+  "a": "1.05 e 15",
+  "fermiA": "15",
+  "sources": [
+    "http://pdf.lowes.com/dimensionsguides/040688102733_meas.pdf",
+    "http://en.wikipedia.org/wiki/Red_blood_cell#Human_erythrocytes",
+    "Assume a human red blood cell is roughly spheroid in shape.",
+    "http://en.wikipedia.org/wiki/Spheroid",
+    "http://en.wikipedia.org/wiki/Circle",
+    "http://en.wikipedia.org/wiki/Circle_packing",
+    "http://en.wikipedia.org/wiki/Close-packing_of_spheres",
+    "Assume spheroids pack like spheres."
+]
+},
+{
+  "q": "What is the number of standard 2x4 lego blocks it would take to fill a bathtub?",
+  "a": "25.9 thousand",
+  "fermiA": "4",
+  "sources": [
+    "http://pdf.lowes.com/dimensionsguides/040688102733_meas.pdf",
+    "http://www.robertcailliau.eu/Lego/Dimensions/zMeasurements-en.xhtml",
+    "Assume no space is lost when packing lego blocks into a container."
+]
+},
+{
+  "q": "How many teaspoonfuls of air would fit in a bathtub?",
+  "a": "25.4 thousand",
+  "fermiA": "4",
+  "sources": [
+    "http://pdf.lowes.com/dimensionsguides/040688102733_meas.pdf",
+    "http://en.wikipedia.org/wiki/Teaspoon#Measure_of_volume"
+]
+},
+{
+  "q": "What is the number of toothpicks it would take to fill a bathtub?",
+  "a": "481 thousand",
+  "fermiA": "5",
+  "sources": [
+    "http://pdf.lowes.com/dimensionsguides/040688102733_meas.pdf",
+    "http://naosite.lb.nagasaki-u.ac.jp/dspace/bitstream/10069/20149/1/otol132_4_669.pdf",
+    "Assume no space is lost when packing toothpicks into a container."
+]
+},
+{
+  "q": "What is the number of US dimes it would take to fill a bathtub?",
+  "a": "333 thousand",
+  "fermiA": "5",
+  "sources": [
+    "http://pdf.lowes.com/dimensionsguides/040688102733_meas.pdf",
+    "http://www.usmint.gov/about_the_mint/?action=coin_specifications"
+]
+},
+{
+  "q": "How many US dollar bills would fit in a bathtub?",
+  "a": "111 thousand",
+  "fermiA": "5",
+  "sources": [
+    "http://pdf.lowes.com/dimensionsguides/040688102733_meas.pdf",
+    "http://hypertextbook.com/facts/1999/DeneneWilliams.shtml",
+    "http://www.treasury.gov/press-center/press-releases/Pages/rr2748.aspx",
+    "Assume no space is lost when packing dollar bills into a container."
+]
+},
+{
+  "q": "How many US dollar coins would fit in a bathtub?",
+  "a": "103 thousand",
+  "fermiA": "5",
+  "sources": [
+    "http://pdf.lowes.com/dimensionsguides/040688102733_meas.pdf",
+    "http://en.wikipedia.org/wiki/Dollar_coin_(United_States)",
+    "http://mathworld.wolfram.com/CirclePacking.html"
+]
+},
+{
+  "q": "What is the number of 24 inch beach balls it would take to fill a Boeing 747?",
+  "a": "8.78 thousand",
+  "fermiA": "4",
+  "sources": [
+    "http://www.boeing.com/commercial/747family/pf/pf_domestic_prod.html",
+    "http://en.wikipedia.org/wiki/Spheroid",
+    "http://en.wikipedia.org/wiki/Circle",
+    "http://en.wikipedia.org/wiki/Circle_packing",
+    "http://en.wikipedia.org/wiki/Close-packing_of_spheres"
+]
+},
+{
+  "q": "What is the number of basketballs it would take to fill a Boeing 747?",
+  "a": "147 thousand",
+  "fermiA": "5",
+  "sources": [
+    "http://www.boeing.com/commercial/747family/pf/pf_domestic_prod.html",
+    "http://www.wolframalpha.com/input/?i=basketball",
+    "http://en.wikipedia.org/wiki/Spheroid",
+    "http://en.wikipedia.org/wiki/Circle",
+    "http://en.wikipedia.org/wiki/Circle_packing",
+    "http://en.wikipedia.org/wiki/Close-packing_of_spheres"
+]
+},
+{
+  "q": "What is the number of board game dice it would take to fill a Boeing 747?",
+  "a": "343 million",
+  "fermiA": "8",
+  "sources": [
+    "http://www.boeing.com/commercial/747family/pf/pf_domestic_prod.html",
+    "http://www.dice.co.uk/outlines.htm"
+]
+},
+{
+  "q": "What is the number of bowling balls it would take to fill a Boeing 747?",
+  "a": "241 thousand",
+  "fermiA": "5",
+  "sources": [
+    "http://www.boeing.com/commercial/747family/pf/pf_domestic_prod.html",
+    "http://en.wikipedia.org/wiki/Bowling_ball#Specifications",
+    "http://en.wikipedia.org/wiki/Spheroid",
+    "http://en.wikipedia.org/wiki/Circle",
+    "http://en.wikipedia.org/wiki/Circle_packing",
+    "http://en.wikipedia.org/wiki/Close-packing_of_spheres"
+]
+},
+{
+  "q": "How many carbon atoms (as in diamond) would fit in a Boeing 747?",
+  "a": "2.46 e 32",
+  "fermiA": "32",
+  "sources": [
+    "http://www.boeing.com/commercial/747family/pf/pf_domestic_prod.html",
+    "http://www.wolframalpha.com/input/?i=carbon+atom"
+  ]
+},
+{
+  "q": "How many drops of water would fit in a Boeing 747?",
+  "a": "1.41 billion",
+  "fermiA": "9",
+  "sources": [
+    "http://www.boeing.com/commercial/747family/pf/pf_domestic_prod.html",
+    "http://www.wolframalpha.com/input/?i=water",
+    "http://en.wikipedia.org/wiki/Drop_(unit)"
+]
+},
+{
+  "q": "How many grains of sand would fit in a Boeing 747?",
+  "a": "1.68 e 13",
+  "fermiA": "13",
+  "sources": [
+    "http://www.boeing.com/commercial/747family/pf/pf_domestic_prod.html",
+    "http://en.wikipedia.org/wiki/Orders_of_magnitude_(volume)",
+    "http://en.wikipedia.org/wiki/Sphere_packing"
+]
+},
+{
+  "q": "What is the number of liters of jello it would take to fill a Boeing 747?",
+  "a": "1.41 million",
+  "fermiA": "6",
+  "sources": [
+    "http://www.boeing.com/commercial/747family/pf/pf_domestic_prod.html"
+]
+},
+{
+  "q": "How many M&Ms would fit in a Boeing 747?",
+  "a": "1.7 billion",
+  "fermiA": "9",
+  "sources": [
+    "http://www.boeing.com/commercial/747family/pf/pf_domestic_prod.html",
+    "http://stat.pugetsound.edu/hoard/datasetDetails.aspx?id=1",
+    "Assume an M&M's smallest dimension is half its largest dimension.",
+    "http://en.wikipedia.org/wiki/Spheroid",
+    "http://en.wikipedia.org/wiki/Circle",
+    "http://en.wikipedia.org/wiki/Circle_packing",
+    "http://en.wikipedia.org/wiki/Close-packing_of_spheres",
+    "Assume spheroids pack like spheres."
+]
+},
+{
+  "q": "What is the number of ping pong balls it would take to fill a Boeing 747?",
+  "a": "31.1 million",
+  "fermiA": "7",
+  "sources": [
+    "http://www.boeing.com/commercial/747family/pf/pf_domestic_prod.html",
+    "http://www.wolframalpha.com/input/?i=ping+pong+ball",
+    "http://en.wikipedia.org/wiki/Spheroid",
+    "http://en.wikipedia.org/wiki/Circle",
+    "http://en.wikipedia.org/wiki/Circle_packing",
+    "http://en.wikipedia.org/wiki/Close-packing_of_spheres"
+]
+},
+{
+  "q": "What is the number of queen-size mattresses it would take to fill a Boeing 747?",
+  "a": "1.92 thousand",
+  "fermiA": "3",
+  "sources": [
+    "http://www.boeing.com/commercial/747family/pf/pf_domestic_prod.html",
+    "http://www.ikea.com/us/en/catalog/products/10206840/"
+]
+},
+{
+  "q": "What is the number of red blood cells it would take to fill a Boeing 747?",
+  "a": "1.18 e 19",
+  "fermiA": "19",
+  "sources": [
+    "http://www.boeing.com/commercial/747family/pf/pf_domestic_prod.html",
+    "http://en.wikipedia.org/wiki/Red_blood_cell#Human_erythrocytes",
+    "Assume a human red blood cell is roughly spheroid in shape.",
+    "http://en.wikipedia.org/wiki/Spheroid",
+    "http://en.wikipedia.org/wiki/Circle",
+    "http://en.wikipedia.org/wiki/Circle_packing",
+    "http://en.wikipedia.org/wiki/Close-packing_of_spheres",
+    "Assume spheroids pack like spheres."
+]
+},
+{
+  "q": "How many standard 2x4 lego blocks would fit in a Boeing 747?",
+  "a": "292 million",
+  "fermiA": "8",
+  "sources": [
+    "http://www.boeing.com/commercial/747family/pf/pf_domestic_prod.html",
+    "http://www.robertcailliau.eu/Lego/Dimensions/zMeasurements-en.xhtml",
+    "Assume no space is lost when packing lego blocks into a container."
+]
+},
+{
+  "q": "How many standard Rubik's Cubes would fit in a Boeing 747?",
+  "a": "7.59 million",
+  "fermiA": "7",
+  "sources": [
+    "http://www.boeing.com/commercial/747family/pf/pf_domestic_prod.html",
+    "http://en.wikipedia.org/wiki/Rubik's_Cube#Mechanics"
+]
+},
+{
+  "q": "What is the number of teaspoonfuls of air it would take to fill a Boeing 747?",
+  "a": "285 million",
+  "fermiA": "8",
+  "sources": [
+    "http://www.boeing.com/commercial/747family/pf/pf_domestic_prod.html",
+    "http://en.wikipedia.org/wiki/Teaspoon#Measure_of_volume"
+]
+},
+{
+  "q": "How many tennis balls would fit in a Boeing 747?",
+  "a": "6.61 million",
+  "fermiA": "7",
+  "sources": [
+    "http://www.boeing.com/commercial/747family/pf/pf_domestic_prod.html",
+    "http://www.wolframalpha.com/input/?i=tennis+ball",
+    "http://en.wikipedia.org/wiki/Spheroid",
+    "http://en.wikipedia.org/wiki/Circle",
+    "http://en.wikipedia.org/wiki/Circle_packing",
+    "http://en.wikipedia.org/wiki/Close-packing_of_spheres"
+]
+},
+{
+  "q": "How many toothpicks would fit in a Boeing 747?",
+  "a": "5.41 billion",
+  "fermiA": "10",
+  "sources": [
+    "http://www.boeing.com/commercial/747family/pf/pf_domestic_prod.html",
+    "http://naosite.lb.nagasaki-u.ac.jp/dspace/bitstream/10069/20149/1/otol132_4_669.pdf",
+    "Assume no space is lost when packing toothpicks into a container."
+]
+},
+{
+  "q": "How many US dimes would fit in a Boeing 747?",
+  "a": "3.75 billion",
+  "fermiA": "9",
+  "sources": [
+    "http://www.boeing.com/commercial/747family/pf/pf_domestic_prod.html",
+    "http://www.usmint.gov/about_the_mint/?action=coin_specifications"
+]
+},
+{
+  "q": "What is the number of US dollar bills it would take to fill a Boeing 747?",
+  "a": "1.24 billion",
+  "fermiA": "9",
+  "sources": [
+    "http://www.boeing.com/commercial/747family/pf/pf_domestic_prod.html",
+    "http://hypertextbook.com/facts/1999/DeneneWilliams.shtml",
+    "http://www.treasury.gov/press-center/press-releases/Pages/rr2748.aspx",
+    "Assume no space is lost when packing dollar bills into a container."
+]
+},
+{
+  "q": "What is the number of US dollar coins it would take to fill a Boeing 747?",
+  "a": "1.16 billion",
+  "fermiA": "9",
+  "sources": [
+    "http://www.boeing.com/commercial/747family/pf/pf_domestic_prod.html",
+    "http://en.wikipedia.org/wiki/Dollar_coin_(United_States)",
+    "http://mathworld.wolfram.com/CirclePacking.html"
+]
+},
+{
+  "q": "What is the number of 24 inch beach balls it would take to fill a Hindenburg class airship?",
+  "a": "1.25 million",
+  "fermiA": "6",
+  "sources": [
+    "http://en.wikipedia.org/wiki/Hindenburg_class_airship",
+    "http://en.wikipedia.org/wiki/Sphere_packing",
+    "Assume Hindenburg class airships pack like spheres.",
+    "http://en.wikipedia.org/wiki/Spheroid",
+    "http://en.wikipedia.org/wiki/Circle",
+    "http://en.wikipedia.org/wiki/Circle_packing",
+    "http://en.wikipedia.org/wiki/Close-packing_of_spheres"
+]
+},
+{
+  "q": "What is the number of basketballs it would take to fill a Hindenburg class airship?",
+  "a": "20.8 million",
+  "fermiA": "7",
+  "sources": [
+    "http://en.wikipedia.org/wiki/Hindenburg_class_airship",
+    "http://en.wikipedia.org/wiki/Sphere_packing",
+    "Assume Hindenburg class airships pack like spheres.",
+    "http://www.wolframalpha.com/input/?i=basketball",
+    "http://en.wikipedia.org/wiki/Spheroid",
+    "http://en.wikipedia.org/wiki/Circle",
+    "http://en.wikipedia.org/wiki/Circle_packing",
+    "http://en.wikipedia.org/wiki/Close-packing_of_spheres"
+]
+},
+{
+  "q": "What is the number of board game dice it would take to fill a Hindenburg class airship?",
+  "a": "48.8 billion",
+  "fermiA": "10",
+  "sources": [
+    "http://en.wikipedia.org/wiki/Hindenburg_class_airship",
+    "http://en.wikipedia.org/wiki/Sphere_packing",
+    "Assume Hindenburg class airships pack like spheres.",
+    "http://www.dice.co.uk/outlines.htm"
+]
+},
+{
+  "q": "What is the number of bowling balls it would take to fill a Hindenburg class airship?",
+  "a": "34.3 million",
+  "fermiA": "7",
+  "sources": [
+    "http://en.wikipedia.org/wiki/Hindenburg_class_airship",
+    "http://en.wikipedia.org/wiki/Sphere_packing",
+    "Assume Hindenburg class airships pack like spheres.",
+    "http://en.wikipedia.org/wiki/Bowling_ball#Specifications",
+    "http://en.wikipedia.org/wiki/Spheroid",
+    "http://en.wikipedia.org/wiki/Circle",
+    "http://en.wikipedia.org/wiki/Circle_packing",
+    "http://en.wikipedia.org/wiki/Close-packing_of_spheres"
+]
+},
+{
+  "q": "How many carbon atoms (as in diamond) would fit in a Hindenburg class airship?",
+  "a": "3.5 e 34",
+  "fermiA": "34",
+  "sources": [
+    "http://en.wikipedia.org/wiki/Hindenburg_class_airship",
+    "http://en.wikipedia.org/wiki/Sphere_packing",
+    "Assume Hindenburg class airships pack like spheres.",
+    "http://www.wolframalpha.com/input/?i=carbon+atom"
+  ]
+},
+{
+  "q": "How many drops of water would fit in a Hindenburg class airship?",
+  "a": "200 billion",
+  "fermiA": "11",
+  "sources": [
+    "http://en.wikipedia.org/wiki/Hindenburg_class_airship",
+    "http://en.wikipedia.org/wiki/Sphere_packing",
+    "Assume Hindenburg class airships pack like spheres.",
+    "http://www.wolframalpha.com/input/?i=water",
+    "http://en.wikipedia.org/wiki/Drop_(unit)"
+]
+},
+{
+  "q": "How many grains of sand would fit in a Hindenburg class airship?",
+  "a": "2.39 e 15",
+  "fermiA": "15",
+  "sources": [
+    "http://en.wikipedia.org/wiki/Hindenburg_class_airship",
+    "http://en.wikipedia.org/wiki/Sphere_packing",
+    "Assume Hindenburg class airships pack like spheres.",
+    "http://en.wikipedia.org/wiki/Orders_of_magnitude_(volume)"
+]
+},
+{
+  "q": "What is the number of liters of jello it would take to fill a Hindenburg class airship?",
+  "a": "200 million",
+  "fermiA": "8",
+  "sources": [
+    "http://en.wikipedia.org/wiki/Hindenburg_class_airship",
+    "http://en.wikipedia.org/wiki/Sphere_packing",
+    "Assume Hindenburg class airships pack like spheres."
+]
+},
+{
+  "q": "How many M&Ms would fit in a Hindenburg class airship?",
+  "a": "242 billion",
+  "fermiA": "11",
+  "sources": [
+    "http://en.wikipedia.org/wiki/Hindenburg_class_airship",
+    "http://en.wikipedia.org/wiki/Sphere_packing",
+    "Assume Hindenburg class airships pack like spheres.",
+    "http://stat.pugetsound.edu/hoard/datasetDetails.aspx?id=1",
+    "Assume an M&M's smallest dimension is half its largest dimension.",
+    "http://en.wikipedia.org/wiki/Spheroid",
+    "http://en.wikipedia.org/wiki/Circle",
+    "http://en.wikipedia.org/wiki/Circle_packing",
+    "http://en.wikipedia.org/wiki/Close-packing_of_spheres",
+    "Assume spheroids pack like spheres."
+]
+},
+{
+  "q": "What is the number of ping pong balls it would take to fill a Hindenburg class airship?",
+  "a": "4.42 billion",
+  "fermiA": "9",
+  "sources": [
+    "http://en.wikipedia.org/wiki/Hindenburg_class_airship",
+    "http://en.wikipedia.org/wiki/Sphere_packing",
+    "Assume Hindenburg class airships pack like spheres.",
+    "http://www.wolframalpha.com/input/?i=ping+pong+ball",
+    "http://en.wikipedia.org/wiki/Spheroid",
+    "http://en.wikipedia.org/wiki/Circle",
+    "http://en.wikipedia.org/wiki/Circle_packing",
+    "http://en.wikipedia.org/wiki/Close-packing_of_spheres"
+]
+},
+{
+  "q": "What is the number of queen-size mattresses it would take to fill a Hindenburg class airship?",
+  "a": "273 thousand",
+  "fermiA": "5",
+  "sources": [
+    "http://en.wikipedia.org/wiki/Hindenburg_class_airship",
+    "http://en.wikipedia.org/wiki/Sphere_packing",
+    "Assume Hindenburg class airships pack like spheres.",
+    "http://www.ikea.com/us/en/catalog/products/10206840/"
+]
+},
+{
+  "q": "What is the number of red blood cells it would take to fill a Hindenburg class airship?",
+  "a": "1.68 e 21",
+  "fermiA": "21",
+  "sources": [
+    "http://en.wikipedia.org/wiki/Hindenburg_class_airship",
+    "http://en.wikipedia.org/wiki/Sphere_packing",
+    "Assume Hindenburg class airships pack like spheres.",
+    "http://en.wikipedia.org/wiki/Red_blood_cell#Human_erythrocytes",
+    "Assume a human red blood cell is roughly spheroid in shape.",
+    "http://en.wikipedia.org/wiki/Spheroid",
+    "http://en.wikipedia.org/wiki/Circle",
+    "http://en.wikipedia.org/wiki/Circle_packing",
+    "http://en.wikipedia.org/wiki/Close-packing_of_spheres",
+    "Assume spheroids pack like spheres."
+]
+},
+{
+  "q": "How many standard 2x4 lego blocks would fit in a Hindenburg class airship?",
+  "a": "41.5 billion",
+  "fermiA": "10",
+  "sources": [
+    "http://en.wikipedia.org/wiki/Hindenburg_class_airship",
+    "http://en.wikipedia.org/wiki/Sphere_packing",
+    "Assume Hindenburg class airships pack like spheres.",
+    "http://www.robertcailliau.eu/Lego/Dimensions/zMeasurements-en.xhtml",
+    "Assume no space is lost when packing lego blocks into a container."
+]
+},
+{
+  "q": "How many standard Rubik's Cubes would fit in a Hindenburg class airship?",
+  "a": "1.08 billion",
+  "fermiA": "9",
+  "sources": [
+    "http://en.wikipedia.org/wiki/Hindenburg_class_airship",
+    "http://en.wikipedia.org/wiki/Sphere_packing",
+    "Assume Hindenburg class airships pack like spheres.",
+    "http://en.wikipedia.org/wiki/Rubik's_Cube#Mechanics"
+]
+},
+{
+  "q": "What is the number of teaspoonfuls of air it would take to fill a Hindenburg class airship?",
+  "a": "40.6 billion",
+  "fermiA": "10",
+  "sources": [
+    "http://en.wikipedia.org/wiki/Hindenburg_class_airship",
+    "http://en.wikipedia.org/wiki/Sphere_packing",
+    "Assume Hindenburg class airships pack like spheres.",
+    "http://en.wikipedia.org/wiki/Teaspoon#Measure_of_volume"
+]
+},
+{
+  "q": "How many tennis balls would fit in a Hindenburg class airship?",
+  "a": "940 million",
+  "fermiA": "9",
+  "sources": [
+    "http://en.wikipedia.org/wiki/Hindenburg_class_airship",
+    "http://en.wikipedia.org/wiki/Sphere_packing",
+    "Assume Hindenburg class airships pack like spheres.",
+    "http://www.wolframalpha.com/input/?i=tennis+ball",
+    "http://en.wikipedia.org/wiki/Spheroid",
+    "http://en.wikipedia.org/wiki/Circle",
+    "http://en.wikipedia.org/wiki/Circle_packing",
+    "http://en.wikipedia.org/wiki/Close-packing_of_spheres"
+]
+},
+{
+  "q": "How many toothpicks would fit in a Hindenburg class airship?",
+  "a": "769 billion",
+  "fermiA": "12",
+  "sources": [
+    "http://en.wikipedia.org/wiki/Hindenburg_class_airship",
+    "http://en.wikipedia.org/wiki/Sphere_packing",
+    "Assume Hindenburg class airships pack like spheres.",
+    "http://naosite.lb.nagasaki-u.ac.jp/dspace/bitstream/10069/20149/1/otol132_4_669.pdf",
+    "Assume no space is lost when packing toothpicks into a container."
+]
+},
+{
+  "q": "How many US dimes would fit in a Hindenburg class airship?",
+  "a": "533 billion",
+  "fermiA": "12",
+  "sources": [
+    "http://en.wikipedia.org/wiki/Hindenburg_class_airship",
+    "http://en.wikipedia.org/wiki/Sphere_packing",
+    "Assume Hindenburg class airships pack like spheres.",
+    "http://www.usmint.gov/about_the_mint/?action=coin_specifications"
+]
+},
+{
+  "q": "What is the number of US dollar bills it would take to fill a Hindenburg class airship?",
+  "a": "177 billion",
+  "fermiA": "11",
+  "sources": [
+    "http://en.wikipedia.org/wiki/Hindenburg_class_airship",
+    "http://en.wikipedia.org/wiki/Sphere_packing",
+    "Assume Hindenburg class airships pack like spheres.",
+    "http://hypertextbook.com/facts/1999/DeneneWilliams.shtml",
+    "http://www.treasury.gov/press-center/press-releases/Pages/rr2748.aspx",
+    "Assume no space is lost when packing dollar bills into a container."
+]
+},
+{
+  "q": "What is the number of US dollar coins it would take to fill a Hindenburg class airship?",
+  "a": "165 billion",
+  "fermiA": "11",
+  "sources": [
+    "http://en.wikipedia.org/wiki/Hindenburg_class_airship",
+    "http://en.wikipedia.org/wiki/Sphere_packing",
+    "Assume Hindenburg class airships pack like spheres.",
+    "http://en.wikipedia.org/wiki/Dollar_coin_(United_States)",
+    "http://mathworld.wolfram.com/CirclePacking.html"
+]
+},
+{
+  "q": "What is the number of board game dice it would take to make a full scale model of an average human?",
+  "a": "17.2 thousand",
+  "fermiA": "4",
+  "sources": [
+    "http://www.livestrong.com/article/438170",
+    "http://www.wolframalpha.com/input/?i=human+mass",
+    "http://newton.dep.anl.gov/askasci/bio99/bio99503.htm",
+    "http://www.dice.co.uk/outlines.htm"
+]
+},
+{
+  "q": "How many carbon atoms (as in diamond) would it take to make a replica of an average human?",
+  "a": "1.23 e 28",
+  "fermiA": "28",
+  "sources": [
+    "http://www.livestrong.com/article/438170",
+    "http://www.wolframalpha.com/input/?i=human+mass",
+    "http://newton.dep.anl.gov/askasci/bio99/bio99503.htm",
+    "http://www.wolframalpha.com/input/?i=carbon+atom"
+  ]
+},
+{
+  "q": "How many grains of sand would it take to make a replica of an average human?",
+  "a": "840 million",
+  "fermiA": "9",
+  "sources": [
+    "http://www.livestrong.com/article/438170",
+    "http://www.wolframalpha.com/input/?i=human+mass",
+    "http://newton.dep.anl.gov/askasci/bio99/bio99503.htm",
+    "http://en.wikipedia.org/wiki/Orders_of_magnitude_(volume)",
+    "http://en.wikipedia.org/wiki/Sphere_packing"
+    ]
+  }
+]}
+
